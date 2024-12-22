@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio repository!
 
-## Demo
+## Demo ⸜(｡˃ ᵕ ˂ )/
 
 Check out the live version of my portfolio website here:  
 [Live Demo](https://vania-portfolio-website.vercel.app/)
@@ -22,7 +22,4 @@ To run the portfolio website locally, follow these steps:
 ```bash
 git clone https://github.com/vaniagnes/portfolio-websitee.git
 
-```bash
-
-ENJOY ⸜(｡˃ ᵕ ˂ )/
 
