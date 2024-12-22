@@ -1,8 +1,26 @@
-# React + Vite
+# My Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio repository!
 
-Currently, two official plugins are available:
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Check out the live version of my portfolio website here:  
+[Live Demo](https://vania-portfolio-website.vercel.app/)
+
+## Technologies Used
+
+This portfolio website is built using the following technologies:
+
+- **Frontend**: React, HTML, CSS, JavaScript, JSON, Vite
+- **Version Control**: Git, GitHub
+- **Deployment**: Vercel
+
+To run the portfolio website locally, follow these steps:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/vaniagnes/portfolio-websitee.git
+
+ENJOY ⸜(｡˃ ᵕ ˂ )⸝♡
+
