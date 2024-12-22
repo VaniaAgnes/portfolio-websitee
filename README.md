@@ -22,5 +22,7 @@ To run the portfolio website locally, follow these steps:
 ```bash
 git clone https://github.com/vaniagnes/portfolio-websitee.git
 
-ENJOY ⸜(｡˃ ᵕ ˂ )⸝♡
+```bash
+
+ENJOY ⸜(｡˃ ᵕ ˂ )/
 
