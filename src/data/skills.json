@@ -1,0 +1,50 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "JS",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+  "title": "Excel",
+    "imageSrc": "skills/excel.png"
+  },
+  {
+    "title": "SQL",
+      "imageSrc": "skills/sql.png"
+    },
+    {
+      "title": "Docker",
+        "imageSrc": "skills/docker.png"
+    },
+    {
+      "title": "Git",
+        "imageSrc": "skills/git.png"
+    },
+    {
+      "title": "FastAPI",
+        "imageSrc": "skills/fastapi.png"
+    }
+]

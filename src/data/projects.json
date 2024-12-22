@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Density Simulator",
+    "imageSrc": "projects/density-simulator.png",
+    "description": "An interactive tool designed to help users visualize and understand the concept of density through simulations.",
+    "skills": ["Python", "Tkinter", "Git", "JSON"],
+    "demo": "https://github.com/VaniaAgnes/Density-Simulator",
+    "source": "https://github.com/VaniaAgnes/Density-Simulator"
+  },
+  {
+    "title": "To-Do List",
+    "imageSrc": "projects/todolist.png",
+    "description": "A Firebase-powered task manager designed to help users organize and track their schedules efficiently.",
+    "skills": ["React", "JavaScript", "Firebase", "CSS", "HTML"],
+    "demo": "https://to-do-list-vanilla.vercel.app",
+    "source": "https://github.com/VaniaAgnes/To-Do-List"
+  },
+  {
+    "title": "PureLeaf",
+    "imageSrc": "projects/pureleaf.png",
+    "description": "A task management system for optimizing collaboration and task tracking within a company's supply chain.",
+    "skills": ["React", "FastAPI", "Python", "SQL", "CSS", "HTML"],
+    "demo": "https://www.pureleaf.my.id/",
+    "source": "https://github.com/WADSFinalProject/Pureleaf_localtesting.git"
+  },
+  {
+    "title": "Grocery Management System",
+    "imageSrc": "projects/grocery.png",
+    "description": "A Command Line Interface (CLI) for managing employees, products, stocks, and sales in a grocery business.",
+    "skills": ["Database Technology", "Python", "XAMPP", "MySQL"],
+    "demo": "https://github.com/VaniaAgnes/Database-FP",
+    "source": "https://github.com/VaniaAgnes/Database-FP"
+  },
+  {
+    "title": "Tsunami Prediction System",
+    "imageSrc": "projects/ds.png",
+    "description": "A machine learning model designed to predict tsunami events based on statistical and geophysical data.",
+    "skills": ["Python", "Google Colab", "Scikit-learn", "NumPy", "Pandas"],
+    "demo": "https://colab.research.google.com/drive/1i-HvDdnAspUyncDwJ1MD4uNPwnYeYiY3?usp=sharing",
+    "source": "https://github.com/FelAmore/DataScience-BasicStatistics-Final-Project.git"
+  },
+  {
+    "title": "Student Management System",
+    "imageSrc": "projects/student.png",
+    "description": "A Command Line Interface (CLI) program to optimize the management of student data, including personal information and academic records.",
+    "skills": ["Java", "MySQL", "OOP"],
+    "demo": "https://drive.google.com/file/d/1BCMMA9oOfYHzyTKeNzZ5weFS-fp6BF5R/view?usp=sharing",
+    "source": "https://github.com/VaniaAgnes/OOP-Final-Project"
+  },
+  {
+    "title": "Tetris",
+    "imageSrc": "projects/tetris.png",
+    "description": "A pastel-themed twist on the classic Tetris game built with Pygame.",
+    "skills": ["Python", "Pygame", "Algorithm and Programming"],
+    "demo": "https://github.com/VaniaAgnes/tetris",
+    "source": "https://github.com/VaniaAgnes/tetris"
+  },
+  {
+    "title": "Modeling Infection Dynamics with Antibiotic Treatment",
+    "imageSrc": "projects/bacteria.png",
+    "description": "A mathematical model simulating interactions between sensitive and resistant bacterial populations under various antibiotic treatments.",
+    "skills": ["Python", "Matplotlib", "NumPy", "Computational Biology"],
+    "demo": "https://github.com/JessicaAngelah/CompBio-FP",
+    "source": "https://github.com/JessicaAngelah/CompBio-FP"
+  },
+  {
+    "title": "Fake News Detection",
+    "imageSrc": "projects/fakenews.jpg",
+    "description": "Fake News Detection using Deep Learning Models (LSTM, GRU, RNN, Bidir-LSTM-CNN, Co attention)",
+    "skills": ["Deep Learning", "Google Colab", "FastAPI", "React", "Docker","AI"],
+    "demo": "https://github.com/azzansm/Fake-News-Detection-FE",
+    "source": "https://github.com/azzansm/Fake-News-Detection-BE"
+  }
+]
+

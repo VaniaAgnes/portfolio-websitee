@@ -1,0 +1,38 @@
+[
+  {
+    "role": "Treasurer",
+    "organisation": "Robogals",
+    "startDate": "Sept, 2023",
+    "endDate": "Sept, 2024",
+    "experiences": ["Keeping all the detailed records of all financial transactions", "Provide a budget for an event", "Approve and process reimbursement for members who spend money for the organization"],
+    "imageSrc": "history/robogals.png"
+  },
+  {
+    "role": "Regular Member",
+    "organisation": "Google Developer Student Club (GDSC)",
+    "startDate": "Oct, 2023",
+    "endDate": "Sept, 2024",
+    "experiences": ["Attending Workshop and Seminars", "Connecting with fellow regular and core members"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Staff Member",
+    "organisation": "Nore Skincare",
+    "startDate": "Aug, 2022",
+    "endDate": "July, 2023",
+    "experiences": [
+      "Manage and Create Engaging Instagram Post/Story",
+      "Manage Packaging Processes"
+    ], 
+    "imageSrc": "history/nore.png"
+    
+  },
+  {
+    "role": "Owner",
+    "organisation": "Jastip Vanilla",
+    "startDate": "Oct, 2023",
+    "endDate": "Current",
+    "experiences": ["Offering a Personalized Shopping Service", "Handles hard to access items", "Providing convenience"],
+    "imageSrc": "history/jastipvanilla.png"
+  }
+]
