@@ -16,7 +16,7 @@ export const Hero = () => {
             Contact Me
           </a>
           <a 
-            href="/path/to/your/cv.pdf" // replace with your actual CV file path
+            href="assets\hero\cv-van.pdf" 
             className={styles.cvBtn} 
             target="_blank" 
             rel="noopener noreferrer"
@@ -35,4 +35,3 @@ export const Hero = () => {
     </section>
   );
 };
-
