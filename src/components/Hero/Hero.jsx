@@ -16,7 +16,7 @@ export const Hero = () => {
             Contact Me
           </a>
           <a 
-            href="/cv-van.pdf" 
+            href="/cv-vania.pdf" 
             className={styles.cvBtn} 
             target="_blank" 
             rel="noopener noreferrer"
@@ -35,3 +35,4 @@ export const Hero = () => {
     </section>
   );
 };
+
